@@ -1,0 +1,6 @@
+homepage: "https://www.gumstack.com"
+documentation: "https://github.com/gumstack/gumstack-gtm-template"
+versions:
+  - sha: 
+    changeNotes: Initial release.
+
